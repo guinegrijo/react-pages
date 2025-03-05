@@ -73,7 +73,7 @@ function ListEvent() {
       <Button
         component={Link}
         to='/createvento'
-        style={{width: '100%', backgroundColor: '#964b00'}}
+        style={{width: '100%', backgroundColor: '#964b00', color: "#FFFFFF"}}
       >
         Criar Evento
       </Button>
